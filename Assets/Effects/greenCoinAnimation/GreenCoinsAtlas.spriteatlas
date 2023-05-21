@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GreenCoinsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 02cc2eb45146046d4bffcfb0955b800f, type: 3}
+    - {fileID: 2800000, guid: 257d408db8c314f9687c4b33f41e0255, type: 3}
+    - {fileID: 2800000, guid: 7db3d8b361a714a4d94bf70ee16251ca, type: 3}
+    - {fileID: 2800000, guid: 1182d9a96b3764a10b3dd5c9b5580e1f, type: 3}
+    - {fileID: 2800000, guid: 59d675d11ea2841d18655fe774f66262, type: 3}
+    - {fileID: 2800000, guid: 63e9f8330d6154930b986e81cc704d2e, type: 3}
+    - {fileID: 2800000, guid: 049ee0219d2a6430f978f07efda96421, type: 3}
+    - {fileID: 2800000, guid: 42a3ff078b2ae43e5b218587d40c6896, type: 3}
+    - {fileID: 2800000, guid: e5cfc8993e77d42e2a6e889d06c3830d, type: 3}
+    - {fileID: 2800000, guid: 2d031f3d7474b452c993f8977ef4af72, type: 3}
+    - {fileID: 2800000, guid: 7e765c3f4b5164b01b2e41d829f0865d, type: 3}
+    - {fileID: 2800000, guid: 93d948a0a458d451996fce43c43b84a6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 93d948a0a458d451996fce43c43b84a6, type: 3}
+  - {fileID: 21300000, guid: 049ee0219d2a6430f978f07efda96421, type: 3}
+  - {fileID: 21300000, guid: 59d675d11ea2841d18655fe774f66262, type: 3}
+  - {fileID: 21300000, guid: 63e9f8330d6154930b986e81cc704d2e, type: 3}
+  - {fileID: 21300000, guid: 7db3d8b361a714a4d94bf70ee16251ca, type: 3}
+  - {fileID: 21300000, guid: 02cc2eb45146046d4bffcfb0955b800f, type: 3}
+  - {fileID: 21300000, guid: 42a3ff078b2ae43e5b218587d40c6896, type: 3}
+  - {fileID: 21300000, guid: e5cfc8993e77d42e2a6e889d06c3830d, type: 3}
+  - {fileID: 21300000, guid: 1182d9a96b3764a10b3dd5c9b5580e1f, type: 3}
+  - {fileID: 21300000, guid: 2d031f3d7474b452c993f8977ef4af72, type: 3}
+  - {fileID: 21300000, guid: 257d408db8c314f9687c4b33f41e0255, type: 3}
+  - {fileID: 21300000, guid: 7e765c3f4b5164b01b2e41d829f0865d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - coin12
+  - coin7
+  - coin5
+  - coin6
+  - coin3
+  - coin1
+  - coin8
+  - coin9
+  - coin4
+  - coin10
+  - coin2
+  - coin11
+  m_RenderDataMap: {}
+  m_Tag: GreenCoinsAtlas
+  m_IsVariant: 0

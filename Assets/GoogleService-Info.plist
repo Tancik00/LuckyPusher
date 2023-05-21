@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1058191169673-dhtgo2mc3dbm65frd4ol4bjjt3dugii8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1058191169673-dhtgo2mc3dbm65frd4ol4bjjt3dugii8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1058191169673-jpdtibvv951hdin19gq6jocilskn1kc3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbNqQ-JOhjdx5beqrLc86foNnCvU_tK78</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1058191169673</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cc.lucky.spin</string>
+	<key>PROJECT_ID</key>
+	<string>lucky-pusher-b7192</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lucky-pusher-b7192.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1058191169673:ios:121c710ca7ea2058108e58</string>
+	<key>DATABASE_URL</key>
+	<string>https://lucky-pusher-b7192.firebaseio.com</string>
+</dict>
+</plist>

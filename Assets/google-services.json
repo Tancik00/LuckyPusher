@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1058191169673",
+    "firebase_url": "https://lucky-pusher-b7192.firebaseio.com",
+    "project_id": "lucky-pusher-b7192",
+    "storage_bucket": "lucky-pusher-b7192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058191169673:android:cd8adbbcb31146a9108e58",
+        "android_client_info": {
+          "package_name": "com.luckypusher.cc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058191169673-jpdtibvv951hdin19gq6jocilskn1kc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luckypusher.cc",
+            "certificate_hash": "bd7ab22c9700eb5c4baa96ed4e838c0eeeebc52f"
+          }
+        },
+        {
+          "client_id": "1058191169673-ci44ua1mn2e0cj6pfh4a493534osbie7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXAQtPfy2eBQPmB-kNW7yWmdJQnyG3g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058191169673-ci44ua1mn2e0cj6pfh4a493534osbie7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058191169673-dhtgo2mc3dbm65frd4ol4bjjt3dugii8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cc.lucky.spin",
+                "app_store_id": "1522170515"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

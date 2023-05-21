@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04736d3c-efd6-4b0c-aa58-7b64a5778f35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1qW5USanLW5xeOuCsMZkGf8d6TG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04736d3c-efd6-4b0c-aa58-7b64a5778f35" name="Default Changelist" comment="" />
+      <created>1617182520704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617182520704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="869" y="342" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617182855256">
+      <screen x="0" y="25" width="2560" height="1322" />
+    </state>
+    <state x="869" y="342" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.2560.1322@0.25.2560.1322" timestamp="1617182855256" />
+  </component>
+</project>
